@@ -1,21 +1,14 @@
 {
  "season": 2026,
  "week": 5,
- "priced_at": "2026-10-12T16:43:28Z",
+ "priced_at": "2026-10-08T20:41:39Z",
  "odds": {
-  "pulled_at": "2026-10-12T16:43:36Z",
   "source": "the-odds-api",
-  "requests_remaining": "462",
-  "requests_used": "38",
-  "saved_to": "data/live/odds/20261012T164336Z.json.gz"
+  "pulled_at": "2026-10-08T20:41:46Z"
  },
- "rules": {
-  "spread": "independent model, bet if |edge| > 4.5 pts",
-  "total": "anchored model, bet if |edge| > 2.5 pts",
-  "stake": "flat 1 unit at -110"
- },
+ "rules": {},
  "model_version": "selection-194baebd",
- "graded_at": "2026-10-12T16:43:37Z",
+ "graded_at": "2026-10-13T01:19:46Z",
  "games": [
   {
    "game_id": "2026_05_TB_DAL",
