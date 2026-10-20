@@ -8,7 +8,7 @@
  },
  "rules": {},
  "model_version": "selection-194baebd",
- "graded_at": "2026-10-20T01:49:20Z",
+ "graded_at": "2026-10-20T12:43:12Z",
  "games": [
   {
    "game_id": "2026_06_SEA_DEN",
@@ -675,7 +675,7 @@
   },
   {
    "game_id": "2026_06_WAS_SF",
-   "status": "open",
+   "status": "final",
    "kickoff_et": "2026-10-19 20:15",
    "away_team": "WAS",
    "home_team": "SF",
@@ -716,9 +716,9 @@
    "weather_source": "forecast",
    "odds_source": "the-odds-api",
    "priced_at": "2026-10-19T20:35:08Z",
-   "home_score": null,
-   "away_score": null,
-   "final": false,
+   "home_score": 23.0,
+   "away_score": 17.0,
+   "final": true,
    "spread_grade": null,
    "total_grade": null,
    "spread_units": null,
