@@ -1,13 +1,13 @@
 {
  "season": 2026,
  "week": 7,
- "priced_at": "2026-10-25T22:33:33Z",
+ "priced_at": "2026-10-26T01:10:17Z",
  "odds": {
-  "pulled_at": "2026-10-25T22:33:41Z",
+  "pulled_at": "2026-10-26T01:10:22Z",
   "source": "the-odds-api",
-  "requests_remaining": "362",
-  "requests_used": "138",
-  "saved_to": "data/live/odds/20261025T223341Z.json.gz"
+  "requests_remaining": "360",
+  "requests_used": "140",
+  "saved_to": "data/live/odds/20261026T011022Z.json.gz"
  },
  "rules": {
   "spread": "independent model, bet if |edge| > 4.5 pts",
@@ -15,7 +15,7 @@
   "stake": "flat 1 unit at -110"
  },
  "model_version": "selection-194baebd",
- "graded_at": "2026-10-25T22:33:43Z",
+ "graded_at": "2026-10-26T01:10:24Z",
  "games": [
   {
    "game_id": "2026_07_NE_CHI",
@@ -478,7 +478,7 @@
   },
   {
    "game_id": "2026_07_DEN_ARI",
-   "status": "locked",
+   "status": "final",
    "kickoff_et": "2026-10-25 16:05",
    "away_team": "DEN",
    "home_team": "ARI",
@@ -519,9 +519,9 @@
    "weather_source": "indoor (assumed closed)",
    "odds_source": "the-odds-api",
    "priced_at": "2026-10-25T19:36:57Z",
-   "home_score": null,
-   "away_score": null,
-   "final": false,
+   "home_score": 16.0,
+   "away_score": 30.0,
+   "final": true,
    "spread_grade": null,
    "total_grade": null,
    "spread_units": null,
@@ -529,7 +529,7 @@
   },
   {
    "game_id": "2026_07_GB_DET",
-   "status": "locked",
+   "status": "final",
    "kickoff_et": "2026-10-25 16:25",
    "away_team": "GB",
    "home_team": "DET",
@@ -570,9 +570,9 @@
    "weather_source": "indoor",
    "odds_source": "the-odds-api",
    "priced_at": "2026-10-25T19:36:57Z",
-   "home_score": null,
-   "away_score": null,
-   "final": false,
+   "home_score": 20.0,
+   "away_score": 17.0,
+   "final": true,
    "spread_grade": null,
    "total_grade": null,
    "spread_units": null,
@@ -580,7 +580,7 @@
   },
   {
    "game_id": "2026_07_LA_LV",
-   "status": "locked",
+   "status": "final",
    "kickoff_et": "2026-10-25 16:25",
    "away_team": "LA",
    "home_team": "LV",
@@ -621,9 +621,9 @@
    "weather_source": "indoor",
    "odds_source": "the-odds-api",
    "priced_at": "2026-10-25T19:36:57Z",
-   "home_score": null,
-   "away_score": null,
-   "final": false,
+   "home_score": 21.0,
+   "away_score": 35.0,
+   "final": true,
    "spread_grade": null,
    "total_grade": null,
    "spread_units": null,
@@ -631,7 +631,7 @@
   },
   {
    "game_id": "2026_07_KC_SEA",
-   "status": "open",
+   "status": "locked",
    "kickoff_et": "2026-10-25 20:20",
    "away_team": "KC",
    "home_team": "SEA",
@@ -722,7 +722,7 @@
    "precip_prob": 1.0,
    "weather_source": "forecast",
    "odds_source": "the-odds-api",
-   "priced_at": "2026-10-25T22:33:33Z",
+   "priced_at": "2026-10-26T01:10:17Z",
    "home_score": null,
    "away_score": null,
    "final": false,
