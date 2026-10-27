@@ -1,21 +1,14 @@
 {
  "season": 2026,
  "week": 7,
- "priced_at": "2026-10-26T20:28:34Z",
+ "priced_at": "2026-10-22T22:21:17Z",
  "odds": {
-  "pulled_at": "2026-10-26T20:28:41Z",
   "source": "the-odds-api",
-  "requests_remaining": "356",
-  "requests_used": "144",
-  "saved_to": "data/live/odds/20261026T202841Z.json.gz"
+  "pulled_at": "2026-10-22T22:21:21Z"
  },
- "rules": {
-  "spread": "independent model, bet if |edge| > 4.5 pts",
-  "total": "anchored model, bet if |edge| > 2.5 pts",
-  "stake": "flat 1 unit at -110"
- },
+ "rules": {},
  "model_version": "selection-194baebd",
- "graded_at": "2026-10-26T20:28:42Z",
+ "graded_at": "2026-10-27T02:04:19Z",
  "games": [
   {
    "game_id": "2026_07_NE_CHI",
