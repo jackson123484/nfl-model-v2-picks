@@ -15,11 +15,11 @@
   "stake": "flat 1 unit at -110"
  },
  "model_version": "selection-194baebd",
- "graded_at": "2026-11-01T02:12:52Z",
+ "graded_at": "2026-11-01T14:16:28Z",
  "games": [
   {
    "game_id": "2026_08_CAR_GB",
-   "status": "final",
+   "status": "locked",
    "kickoff_et": "2026-10-29 20:15",
    "away_team": "CAR",
    "home_team": "GB",
@@ -60,9 +60,9 @@
    "weather_source": "forecast",
    "odds_source": "the-odds-api",
    "priced_at": "2026-10-29T20:16:18Z",
-   "home_score": 27.0,
-   "away_score": 19.0,
-   "final": true,
+   "home_score": null,
+   "away_score": null,
+   "final": false,
    "spread_grade": null,
    "total_grade": null,
    "spread_units": null,
