@@ -1,21 +1,14 @@
 {
  "season": 2026,
  "week": 8,
- "priced_at": "2026-11-02T17:02:14Z",
+ "priced_at": "2026-10-29T20:16:18Z",
  "odds": {
-  "pulled_at": "2026-11-02T17:02:20Z",
   "source": "the-odds-api",
-  "requests_remaining": "492",
-  "requests_used": "8",
-  "saved_to": "data/live/odds/20261102T170220Z.json.gz"
+  "pulled_at": "2026-10-29T20:16:27Z"
  },
- "rules": {
-  "spread": "independent model, bet if |edge| > 4.5 pts",
-  "total": "anchored model, bet if |edge| > 2.5 pts",
-  "stake": "flat 1 unit at -110"
- },
+ "rules": {},
  "model_version": "selection-194baebd",
- "graded_at": "2026-11-02T17:02:22Z",
+ "graded_at": "2026-11-03T01:34:29Z",
  "games": [
   {
    "game_id": "2026_08_CAR_GB",
