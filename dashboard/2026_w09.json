@@ -8,7 +8,7 @@
  },
  "rules": {},
  "model_version": "selection-194baebd",
- "graded_at": "2026-11-10T02:04:15Z",
+ "graded_at": "2026-11-10T15:34:30Z",
  "games": [
   {
    "game_id": "2026_09_JAX_BAL",
@@ -726,7 +726,7 @@
   },
   {
    "game_id": "2026_09_BUF_MIN",
-   "status": "open",
+   "status": "final",
    "kickoff_et": "2026-11-09 20:15",
    "away_team": "BUF",
    "home_team": "MIN",
@@ -767,9 +767,9 @@
    "weather_source": "indoor",
    "odds_source": "the-odds-api",
    "priced_at": "2026-11-09T17:27:27Z",
-   "home_score": null,
-   "away_score": null,
-   "final": false,
+   "home_score": 6.0,
+   "away_score": 23.0,
+   "final": true,
    "spread_grade": null,
    "total_grade": null,
    "spread_units": null,
