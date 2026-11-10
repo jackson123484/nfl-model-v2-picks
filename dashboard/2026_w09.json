@@ -1,21 +1,14 @@
 {
  "season": 2026,
  "week": 9,
- "priced_at": "2026-11-09T17:27:27Z",
+ "priced_at": "2026-11-06T00:13:55Z",
  "odds": {
-  "pulled_at": "2026-11-09T17:27:36Z",
   "source": "the-odds-api",
-  "requests_remaining": "456",
-  "requests_used": "44",
-  "saved_to": "data/live/odds/20261109T172736Z.json.gz"
+  "pulled_at": "2026-11-06T00:14:01Z"
  },
- "rules": {
-  "spread": "independent model, bet if |edge| > 4.5 pts",
-  "total": "anchored model, bet if |edge| > 2.5 pts",
-  "stake": "flat 1 unit at -110"
- },
+ "rules": {},
  "model_version": "selection-194baebd",
- "graded_at": "2026-11-09T17:27:37Z",
+ "graded_at": "2026-11-10T02:04:15Z",
  "games": [
   {
    "game_id": "2026_09_JAX_BAL",
