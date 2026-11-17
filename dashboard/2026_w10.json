@@ -1,21 +1,14 @@
 {
  "season": 2026,
  "week": 10,
- "priced_at": "2026-11-16T16:58:57Z",
+ "priced_at": "2026-11-13T00:19:00Z",
  "odds": {
-  "pulled_at": "2026-11-16T16:59:04Z",
   "source": "the-odds-api",
-  "requests_remaining": "422",
-  "requests_used": "78",
-  "saved_to": "data/live/odds/20261116T165904Z.json.gz"
+  "pulled_at": "2026-11-13T00:19:07Z"
  },
- "rules": {
-  "spread": "independent model, bet if |edge| > 4.5 pts",
-  "total": "anchored model, bet if |edge| > 2.5 pts",
-  "stake": "flat 1 unit at -110"
- },
+ "rules": {},
  "model_version": "selection-194baebd",
- "graded_at": "2026-11-16T16:59:09Z",
+ "graded_at": "2026-11-17T02:28:07Z",
  "games": [
   {
    "game_id": "2026_10_WAS_NYG",
